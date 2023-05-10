@@ -1,16 +1,16 @@
-### Hi there 👋
+hey there, i'm sean (or ninetySevenCider, whatever works),
 
-<!--
-**97cider/97cider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a fullstack software engineer who focuses on:
+  ~ API architecture and development
+  ~ video game design / computer graphics
+  ~ the philly indie music scene
+  ~ mediocre film photography
+~i'm actively developing cries of the concrete cryptids! expect to see something by the end of 2023~
+thanks for visiting :) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+█▀▀▄█▀▀▄
+█  ██  █
+█      █
+█ █  █ █
+█ ▀  ▀ █
+ ▀▄▄▄▄▀ 
