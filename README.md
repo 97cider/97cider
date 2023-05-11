@@ -7,7 +7,7 @@ hey there, i'm sean! (or ninetySevenCider, whatever you prefer)
 i am a fullstack software engineer who focuses on:
   ~ API architecture and development
   ~ video game design / computer graphics
-  ~ the philly music scene
+  ~ listening to alot of music
   ~ mediocre film photography
 shoot me a message if you want to work on something :)
 thanks for visiting~!
