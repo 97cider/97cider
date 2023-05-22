@@ -9,7 +9,6 @@ i am a fullstack software engineer who focuses on:
   ~ video game design / computer graphics
   ~ listening to alot of music
   ~ mediocre film photography
-shoot me a message if you want to work on something :)
 thanks for visiting~!
 
 █▀▀▄█▀▀▄
